@@ -1,0 +1,4 @@
+TrackJsLogStash/obj/Debug/**
+packages/**
+TrackJsLogStash/bin
+.vs/TrackJsLogStash/v14/.suo
